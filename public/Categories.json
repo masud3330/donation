@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "title": "Clean water for children",
+      "cover_img": "https://i.ibb.co/Wc910jq/Rectangle-4284.png",
+      "category": "Health",
+      "text_color": "#78A3FF",
+      "btn_color": "#ADC7FF",
+      "card_bg_color": "#D9E5FF",
+      "description": "Smartphone with advanced features",
+      "price": 499.99
+    },
+    {
+      "id": 2,
+      "title": "Good education",
+      "cover_img": "https://i.ibb.co/RDphP3S/Rectangle-4287-1.png",
+      "category": "Education",
+      "text_color": "#FF444A",
+      "btn_color": "#FFC3C5",
+      "card_bg_color": "#FFE3E4",
+      "description": "Stainless steel coffee maker",
+      "price": 39.99
+    },
+    {
+      "id": 3,
+      "title": "Used Clothing Drive",
+      "cover_img": "https://i.ibb.co/51XHGdn/Rectangle-4287.png",
+      "category": "Clothing",
+      "text_color": "#79C23F",
+      "btn_color": "#D4EAC1",
+      "card_bg_color": "#EBF5E2",
+      "description": "Men's leather jacket",
+      "price": 149.99
+    },
+    {
+      "id": 4,
+      "title": "Better Food for Everyone",
+      "cover_img": "https://i.ibb.co/PQ7wyFD/Rectangle-4287-2.png",
+      "category": "Food",
+      "text_color": "#F87147",
+      "btn_color": "#FCD1C3",
+      "card_bg_color": "#FDE9E3",
+      "description": "Luxury skincare set",
+      "price": 79.99
+    },
+    {
+      "id": 5,
+      "title": "Better Food for Everyone",
+      "cover_img": "https://i.ibb.co/PQ7wyFD/Rectangle-4287-2.png",
+      "category": "Food",
+      "text_color": "#F87147",
+      "btn_color": "#FCD1C3",
+      "card_bg_color": "#FDE9E3",
+      "description": "Luxury skincare set",
+      "price": 79.99
+    },
+    {
+      "id": 6,
+      "title": "Used Clothing Drive",
+      "cover_img": "https://i.ibb.co/51XHGdn/Rectangle-4287.png",
+      "category": "Clothing",
+      "text_color": "#79C23F",
+      "btn_color": "#D4EAC1",
+      "card_bg_color": "#EBF5E2",
+      "description": "Men's leather jacket",
+      "price": 149.99
+    },
+    {
+      "id": 7,
+      "title": "Good education",
+      "cover_img": "https://i.ibb.co/RDphP3S/Rectangle-4287-1.png",
+      "category": "Education",
+      "text_color": "#FF444A",
+      "btn_color": "#FFC3C5",
+      "card_bg_color": "#FFE3E4",
+      "description": "Stainless steel coffee maker",
+      "price": 39.99
+    },
+    {
+      "id": 8,
+      "title": "Clean water for children",
+      "cover_img": "https://i.ibb.co/Wc910jq/Rectangle-4284.png",
+      "category": "Health",
+      "text_color": "#78A3FF",
+      "btn_color": "#ADC7FF",
+      "card_bg_color": "#D9E5FF",
+      "description": "Smartphone with advanced features",
+      "price": 499.99
+    },
+    {
+      "id": 9,
+      "title": "Clean water for children",
+      "cover_img": "https://i.ibb.co/Wc910jq/Rectangle-4284.png",
+      "category": "Health",
+      "text_color": "#78A3FF",
+      "btn_color": "#ADC7FF",
+      "card_bg_color": "#D9E5FF",
+      "description": "Smartphone with advanced features",
+      "price": 499.99
+    },
+    {
+      "id": 10,
+     "title": "Good education",
+      "cover_img": "https://i.ibb.co/RDphP3S/Rectangle-4287-1.png",
+      "category": "Education",
+      "text_color": "#FF444A",
+      "btn_color": "#FFC3C5",
+      "card_bg_color": "#FFE3E4",
+      "description": "Stainless steel coffee maker",
+      "price": 39.99
+    },
+    {
+      "id": 11,
+      "title": "Used Clothing Drive",
+      "cover_img": "https://i.ibb.co/51XHGdn/Rectangle-4287.png",
+      "category": "Clothing",
+      "text_color": "#79C23F",
+      "btn_color": "#D4EAC1",
+      "card_bg_color": "#EBF5E2",
+      "description": "Men's leather jacket",
+      "price": 149.99
+    },
+    {
+      "id": 12,
+      "title": "Better Food for Everyone",
+      "cover_img": "https://i.ibb.co/PQ7wyFD/Rectangle-4287-2.png",
+      "category": "Food",
+      "text_color": "#F87147",
+      "btn_color": "#FCD1C3",
+      "card_bg_color": "#FDE9E3",
+      "description": "Luxury skincare set",
+      "price": 79.99
+    }
+  ]
+  
